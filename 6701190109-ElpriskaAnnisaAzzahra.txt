@@ -1,6 +1,4 @@
-Nama : Elpriska Annisa Azzahra
-NIM : 6701190109
-Tempat, tanggal lahir : Jakarta, 21 September 2001
-IPK terakhir : 3,3
-Hobi : Baca buku
-Cita cita : Pengusaha
+Nama 	: Elpriska Annisa Azzahra
+Nim 	: 6701190109
+Tempat, Tanggal Lahir : Jakarta, 21 September 2001
+IPK Terakhir  : 3.39 
